@@ -85,4 +85,3 @@ Me chamo Eduardo Ornelas, tenho 21 anos e sou de Campinas. Atualmente, estou cur
   />
 
 </p>
-
