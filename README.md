@@ -81,7 +81,7 @@ Me chamo Eduardo Ornelas, tenho 21 anos e sou de Campinas. Atualmente, estou cur
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoOrnelas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoOrnelas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
   />
 
 </p>
