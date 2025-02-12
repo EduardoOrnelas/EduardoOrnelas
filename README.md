@@ -2,7 +2,7 @@
 
 **`Desenvolvedor ABAP`**
 
-Me chamo Eduardo Ornelas, tenho 21 anos e sou de Campinas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER, Trabalho no ERP SAP como desenvolver ABAP. Sou apaixonado por tecnologia e desejo poder compartilhar meu conhecimento por aqui, estou atualmente entrando no mundo Python espero logo mostrar os resultados!!
+Me chamo Eduardo Ornelas, tenho 21 anos e sou de Campinas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER, Trabalho no ERP SAP como desenvolvedor ABAP. Sou apaixonado por tecnologia e desejo poder compartilhar meu conhecimento por aqui, estou atualmente entrando no mundo Python espero logo mostrar os resultados!!
 
 
 
